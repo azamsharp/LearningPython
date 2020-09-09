@@ -33,7 +33,7 @@ def greet(name):
 # add them together and then print them on screen 
 # 23.45 + 12.75 = 36.20
 
-# SRP Single Responsiblity Principle 
+# SRP Single Responsiblity Principle    s 
 def calculate_tip(total_cost, percentage):
     tip = total_cost * (percentage/100)
     
